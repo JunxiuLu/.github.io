@@ -30,7 +30,7 @@ author:
   location         : "Baltimore, MD, USA"
   employer         : "Tsinghua University"
   uri              : "https://junxiulu.github.io/"
-  email            : "lu-jx23@mails.tsinghua.edu.cn" 
+  #email            : "lu-jx23@mails.tsinghua.edu.cn" 
   email            : "jlu139@jh.edu"  
 
   # Academic websites
